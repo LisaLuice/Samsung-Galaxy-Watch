@@ -5,7 +5,7 @@ How to Update GPS Samsung Galaxy Watch?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://fixmestick.readthedocs.io/en/latest/_images/getsupport.jpg
+.. image:: https://honeywell-gps-update.readthedocs.io/en/latest/_images/corosgpsupdate.jpg
    :alt: Samsung Galaxy GPS Update
    :width: 350px
    :align: center
